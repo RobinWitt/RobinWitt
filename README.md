@@ -13,7 +13,7 @@ My favourite activity is bouldering, which I started in 2019. But I really got s
 - playing chess (although im bad at it)
 
 #### This is what Leipzig looks like from out of a plane: ####
-![leipzig top view](https://i.prcdn.co/img?regionKey=OKg3F1pcluwZ2BGDU3P2ig%3d%3d)
+<img src="https://i.prcdn.co/img?regionKey=OKg3F1pcluwZ2BGDU3P2ig%3d%3d" />
 
 There are a lot of parks and lakes, thats one thing i really like about the city.
 
