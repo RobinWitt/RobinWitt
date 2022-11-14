@@ -15,8 +15,6 @@ My favourite activity is bouldering, which I started in 2019. But I really got s
 #### This is what Leipzig looks like from out of a plane: ####
 ![leipzig top view](https://i.prcdn.co/img?regionKey=OKg3F1pcluwZ2BGDU3P2ig%3d%3d)
 
-There is a lot of parks and lakes, thats one thing i really like about the city.
+There are a lot of parks and lakes, thats one thing i really like about the city.
 
-Thats the end of my short introduction, i hope you liked it.
-
-Have a nice day. :)
+You have reached the end of my short introduction. Have a nice day. :)
