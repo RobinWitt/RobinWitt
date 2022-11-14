@@ -18,3 +18,6 @@ My favourite activity is bouldering, which I started in 2019. But I really got s
 There are a lot of parks and lakes, thats one thing I really like about the city.
 
 You have reached the end of my short introduction. Have a nice day. :)
+
+You are visitor number:
+![Visitor Count](https://profile-counter.glitch.me/{RobinWitt}/count.svg)
