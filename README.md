@@ -12,10 +12,10 @@ My favourite activity is bouldering, which I started in 2019. But I really got s
 - listening to progressive metal
 - playing chess (although im bad at it)
 
-#### This is what Leipzig looks like from out of a plane: ####
-<img src="https://i.prcdn.co/img?regionKey=OKg3F1pcluwZ2BGDU3P2ig%3d%3d" />
+#### This is what the Leipziger Auwald looks like: ####
+<img src="https://www.leipziger-auwald.de/cache/2b4d695614966d0279d5a0c8514e8a8e.jpg" />
 
-There are a lot of parks and lakes, thats one thing I really like about the city.
+There are a lot of parks, lakes and rivers, thats one thing I really like about the city.
 
 You have reached the end of my short introduction. Have a nice day. :)
 
