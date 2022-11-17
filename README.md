@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 My name is **Robin** and I'm based in *Leipzig*. 
-My favourite activity is bouldering, which I started in 2019. But I really got sucked into it 2021 when I was watching competitions and began to train. This year I went to *Innsbruck* to watch the Boulder&Lead World Cup live. It was very inspiring to see the athletes in person.
+My favourite activity is bouldering, which I started in 2019. But I really got into it 2021 when I was watching competitions and began to train. This year I went to *Innsbruck* to watch the Boulder&Lead World Cup live. It was very inspiring to see the athletes in person.
 
 #### If you haven't heard of bouldering yet, you might want to check out [this video](https://www.youtube.com/watch?v=u8F11DGPggs). ####
 
