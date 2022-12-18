@@ -1,9 +1,5 @@
 # Welcome to my GitHub!
 
-### Name: **Robin** <br/>
-### Pronouns: **none/he/him** <br/>
-### Location: **Leipzig** <br/>
-
 ### currently working on: [Journal App](https://github.com/RobinWitt/journal-app_first-react-project)
 
 ### Hobbys: ###
@@ -12,3 +8,7 @@
 - tabletennis
 - listening to progressive metal
 - playing chess
+
+[instagram](https://www.instagram.com/robin_climbs/reels)
+[komoot](https://www.komoot.de/user/2213772897926)
+[lichess](https://lichess.org/@/Rob_AOE)
