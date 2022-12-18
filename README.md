@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my GitHub!
 
 ### Name: **Robin** <br/>
 ### Pronouns: **none/he/him** <br/>
