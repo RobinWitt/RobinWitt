@@ -1,12 +1,12 @@
-# Welcome to my profile!
+# Welcome to my profile! #
 
-###Name: **Robin**###<br/>
-###Pronouns: **none/he/him**###<br/>
-###Location: **Leipzig**###<br/>
-###Diet: **vegan**###<br/>
+### Name: **Robin** ### <br/>
+### Pronouns: **none/he/him** ### <br/>
+### Location: **Leipzig** ### <br/>
+### Diet: **vegan** ### <br/>
 
 
-###Hobbys:###
+### Hobbys: ###
 - bouldering
 - gravelbiking
 - tabletennis
