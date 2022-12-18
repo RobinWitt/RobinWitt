@@ -4,13 +4,11 @@
 ### Pronouns: **none/he/him** <br/>
 ### Location: **Leipzig** <br/>
 
+### currently working on: [Journal App](https://github.com/RobinWitt/journal-app_first-react-project)
 
 ### Hobbys: ###
 - bouldering
 - gravelbiking
 - tabletennis
 - listening to progressive metal
-- playing chess (or trying to)
-
-You are visitor number:
-![Visitor Count](https://profile-counter.glitch.me/{RobinWitt}/count.svg)
+- playing chess
