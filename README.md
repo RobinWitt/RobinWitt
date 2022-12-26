@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-### currently working on: [Journal App](https://github.com/RobinWitt/journal-app_first-react-project)
+### currently working on: [Codesandbox Training](https://codesandbox.io/s/coding-workout-birthday-calendar-vql9o9)
 
 ### Hobbys: ###
 - bouldering
