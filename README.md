@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-## currently working on: Next.js, dynamic routing, fetching
+## currently working on: Next.js, Backend, MongoDB Atlas
 
 ## [codesandbox](https://codesandbox.io/u/RobinW)
 
