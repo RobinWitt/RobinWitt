@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-## currently working on: Next.js, Backend, MongoDB Atlas
+## currently learning: Backend, MongoDB Atlas
 
 ## [codesandbox](https://codesandbox.io/u/RobinW)
 
