@@ -1,6 +1,6 @@
 # Hello World!
 
-## currently working on: [Capstone Project](https://github.com/RobinWitt/capstone-project) (User Stories...)
+## currently working on: [Capstone Project](https://github.com/RobinWitt/capstone-project)
 
 
 ### my [codesandbox](https://codesandbox.io/u/RobinW)
