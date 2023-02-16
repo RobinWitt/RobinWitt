@@ -1,9 +1,4 @@
 # Hello World!
+## [D1E DR3I ??? - Guide](https://github.com/RobinWitt/capstone-project) - Capstone Project
+### [codesandbox](https://codesandbox.io/u/RobinW)
 
-## currently working on: [Capstone Project](https://github.com/RobinWitt/capstone-project)
-
-
-### my [codesandbox](https://codesandbox.io/u/RobinW)
-### Donate:
-[Universal Basic Income (Europe)](https://www.ubi4all.eu/)<br/>
-[Mein Grundeinkommen (Germany)](https://www.mein-grundeinkommen.de/)
