@@ -4,8 +4,6 @@
 
 ### ✅ February 2023 I finished the neue Fische [Web Development Bootcamp](https://www.neuefische.de/bootcamp/web-development)
 ### 🏆 My Capstone Project: [Die Drei ??? - App](https://github.com/RobinWitt/capstone-project)
-
-### 🔎 Looking for a Junior Developer? Message me [📧](mailto:robin.w@posteo.de "robin.w@posteo.de")
 ____________________________________
 ### Check out:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robinwitt1/)
