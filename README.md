@@ -1,6 +1,6 @@
 # Hello World!
 
-### 📝 up next: learning [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.udemy.com/course/das-komplette-python-bootcamp/) (Udemy)
+### 📝 up next: advanced learning Angular
 
 ### ✅ June 2023 - [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://www.udemy.com/course/angular-komplettkurs/) Crash Course (Udemy)
 ### ✅ April 2023 - [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://www.linkedin.com/learning/node-js-lernen) Learning Course (LinkedIn Learning)
